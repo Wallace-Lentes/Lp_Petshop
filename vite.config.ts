@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig(({ mode }) => ({
-    base: "/",
+    base: "/Lp_Petshop/",
     server: {
         host: "::",
         port: 8080,
